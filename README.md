@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**andresgfranco/andresgfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I would not have been the person and professional I am today if I had not satisfied all my curiosities during my career. With ten years of experience, I have been a journalist, teacher, musician, counselor, translator, filmmaker, producer, voiceover professional, digital entrepreneur, UX researcher, and currently building myself as a software developer. What makes me have the ability to apply knowledge across situations and solve problems in different scenarios.
+
+Putting all these things together, I am now looking to build high-impact digital solutions as a Software Developer in both Emerging Markets and Developed Economies, helping build bridges between the two. 
+
 
 Here are some ideas to get you started:
 
