@@ -6,6 +6,8 @@ I am now looking to build high-impact digital solutions as a Software Developer 
 
 ![Andres's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresgfranco&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresgfranco)](https://github.com/andresgfranco/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
