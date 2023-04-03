@@ -1,8 +1,10 @@
 <h1 align="center"> Thanks for being here 👋 </h1>
 
-I am Andrés, and I would not have been the person and professional I am today if I had not satisfied all my curiosities during my career. With ten years of experience, I have been a journalist, teacher, musician, counselor, translator, filmmaker, producer, voiceover professional, digital entrepreneur, UX researcher, and currently building myself as a software developer. What makes me have the ability to apply knowledge across situations and solve problems in different scenarios.
+Hi there! Welcome to my profile. I'm Andrés González, a Front End Developer passionate about creating valuable interfaces. My expertise lies in developing and maintaining Javascript-React-based applications, managing project timelines, and ensuring code quality using various tools and strategies in a remote environment.
 
-I am now looking to build high-impact digital solutions as a Software Developer in both Emerging Markets and Developed Economies, helping build bridges between the two. 
+I've been committed to enhancing usability and functionality throughout my career by creating new UI components and features with React, Typescript, and the Material-UI (MUI) library. I've also contributed to team best practices by participating actively in code reviews, sharing my knowledge, and suggesting improvements to streamline processes.
+
+I'm an assertive communicator and a team player, experienced in working in agile development environments using Scrum and SAFe methodologies. Being fluent in Spanish and English enables me to communicate effectively with clients and colleagues from diverse backgrounds. Currently, I'm working as a Software Developer at Anthology Inc (Blackboard), where I've contributed to meaningful projects for the past year and a half. However, I'm always open to new opportunities and challenges that allow me to continue growing as a developer and contribute to impactful projects. If you're interested in working together to create value for users, please contact me at andresgfranco0@gmail.com.
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andresgfranco&show_icons=true&theme=radical" style="width: 100%;" /></p>
 
